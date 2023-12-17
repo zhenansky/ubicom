@@ -5,3 +5,9 @@ Mereka mengkhususkan diri dalam pengembangan sistem pengenalan wajah (facial rec
 Nodeflux didirikan pada tahun 2016 dan telah menjadi salah satu pemimpin di bidangnya di Indonesia. Mereka menyediakan berbagai produk dan layanan, 
 termasuk sistem pengenalan wajah untuk keamanan, manajemen akses, dan aplikasi lainnya yang memanfaatkan teknologi pengenalan visual.
 
+## Teknlogi Yang Dipakai
+# Pengenalan Wajah (Facial Recognition) :
+# Deep Learning :
+# Computer Vision: 
+# Internet of Things (IoT):
+# Cloud Computing  
