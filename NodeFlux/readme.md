@@ -40,8 +40,8 @@ Mengotomatiskan proses audit penempatan dan menempatkan SKU di rak, kemudian mem
 Mendeteksi & menghitung kepadatan kemunculan manusia di area publik sebagai indikator mobilitas masyarakat.
 
 # Teknlogi Yang Dipakai
-## Pengenalan Wajah (Facial Recognition) :
-## Deep Learning :
-## Computer Vision: 
-## Internet of Things (IoT):
-## Cloud Computing :
+## Pengenalan Wajah (Facial Recognition)
+## Deep Learning
+## Computer Vision
+## Internet of Things (IoT)
+## Cloud Computing
